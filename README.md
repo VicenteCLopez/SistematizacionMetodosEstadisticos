@@ -22,4 +22,3 @@ reproducción de los resultados.
 6. Interpretación y conclusiones.
 ## Estado del proyecto
 En desarrollo.
-
